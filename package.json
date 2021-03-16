@@ -1,0 +1,20 @@
+{
+  "name": "limit-orderbook",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@stakeordie/griptape-vue.js": "^0.1.0",
+    "vue": "^3.0.5",
+    "vue-router": "4",
+    "vuex": "^4.0.0-rc.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.0.5"
+  }
+}
